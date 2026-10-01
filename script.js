@@ -189,7 +189,7 @@ WhatsApp : 02054631734
 </p>
 
 <button id="closeQR">
-ປິດ
+ກົດອອກ
 </button>
 
 </div>
