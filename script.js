@@ -209,3 +209,6 @@ qr.remove();
 function showPaidMessage(){
   document.getElementById("paid-message").style.display="block";
 }
+function orderProduct(name){
+  alert("ທ່ານເລືອກ: " + name);
+}
