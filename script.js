@@ -18,9 +18,18 @@ const products = [
         name: "ສິນຄ້າ 04",
         price: "0 ກີບ",
         description: "ລາຍລະອຽດສິນຄ້າ 04 ຂອງ Sultaniqz"
+    },
+    {
+        name: "ສິນຄ້າ 05",
+        price: "0 ກີບ",
+        description: "ລາຍລະອຽດສິນຄ້າ 05 ຂອງ Sultaniqz"
+    },
+    {
+        name: "ສິນຄ້າ 06",
+        price: "0 ກີບ",
+        description: "ລາຍລະອຽດສິນຄ້າ 06 ຂອງ Sultaniqz"
     }
 ];
-
 const modal = document.createElement("div");
 
 modal.innerHTML = `
